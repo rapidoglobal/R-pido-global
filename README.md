@@ -1,1 +1,1 @@
-# R-pido-global
+Sube estos archivos al repositorio y activa GitHub Pages.
